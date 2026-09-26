@@ -1,4 +1,4 @@
-### Hi, I'm AJ Machowiak 👋
+### Hi, I'm AJ 👋
 
 #### Automation Engineer & Python Developer | UK
 *Building Python web apps, REST API integrations, and internal tooling.*
